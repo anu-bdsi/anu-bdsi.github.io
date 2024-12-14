@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-sidebar','listing-name','listing-email','listing-position','listing-rpweb','listing-image','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-title','listing-web','listing-bluesky','listing-github','listing-supervisor-primary','listing-supervisor-associates',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-sidebar','listing-name','listing-email','listing-position','listing-rpweb','listing-image','listing-categories','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-title','listing-web','listing-bluesky','listing-github','listing-supervisor-primary','listing-supervisor-associates',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-sidebar","listing-name","listing-email","listing-position","listing-rpweb","listing-image","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-title","listing-web","listing-bluesky","listing-github","listing-supervisor-primary","listing-supervisor-associates"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-sidebar","listing-name","listing-email","listing-position","listing-rpweb","listing-image","listing-categories","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-title","listing-web","listing-bluesky","listing-github","listing-supervisor-primary","listing-supervisor-associates"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -108,9 +108,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-sidebar','listing-name','listing-email','listing-position','listing-supervisor-primary','listing-image','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-supervisor-associates','listing-github','listing-rpweb',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-sidebar','listing-name','listing-email','listing-position','listing-supervisor-primary','listing-image','listing-categories','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-supervisor-associates','listing-github','listing-rpweb',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-sidebar","listing-name","listing-email","listing-position","listing-supervisor-primary","listing-image","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-supervisor-associates","listing-github","listing-rpweb"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-sidebar","listing-name","listing-email","listing-position","listing-supervisor-primary","listing-image","listing-categories","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-supervisor-associates","listing-github","listing-rpweb"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -236,9 +236,11 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Affiliation: ANU Biology">Affiliation: ANU Biology</div><div class="category" data-category="Affiliation: ANU Computing">Affiliation: ANU Computing</div><div class="category" data-category="Affiliation: ANU Mathematics">Affiliation: ANU Mathematics</div><div class="category" data-category="Affiliation: ANU Medical">Affiliation: ANU Medical</div><div class="category" data-category="Affiliation: ANU Statistics">Affiliation: ANU Statistics</div><div class="category" data-category="Affiliation: CSIRO Ag &amp; Food">Affiliation: CSIRO Ag &amp; Food</div><div class="category" data-category="Area: Bioinformatics">Area: Bioinformatics</div><div class="category" data-category="Area: Computing">Area: Computing</div><div class="category" data-category="Area: Mathematics">Area: Mathematics</div><div class="category" data-category="Area: Statistics">Area: Statistics</div><div class="category" data-category="Domain: Agriculture">Domain: Agriculture</div><div class="category" data-category="Domain: Medical">Domain: Medical</div><div class="category" data-category="Project: Analytics for the Australian Grains Industry">Project: Analytics for the Australian Grains Industry</div><div class="category" data-category="Project: Mathematical Analysis of Cellular Systems">Project: Mathematical Analysis of Cellular Systems</div><div class="category" data-category="Project: Plant Biosecurity Training Centre">Project: Plant Biosecurity Training Centre</div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -247,7 +249,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -259,12 +261,12 @@ window.Quarto = {
 </header>
 
 
-<section id="staff" class="level2">
-<h2 class="anchored" data-anchor-id="staff">Staff</h2>
+<section id="staff-affiliates" class="level2">
+<h2 class="anchored" data-anchor-id="staff-affiliates">Staff + Affiliates</h2>
 <div id="listing-staff" class="quarto-listing quarto-listing-container-custom">
 <div class="list grid quarto-listing-cols-4">
 
-<div class="profile-box">
+<div class="profile-box" data-index="0" data-categories="Affiliation: CSIRO Ag &amp; Food,Affiliation: ANU Statistics,Affiliation: ANU Biology,Area: Bioinformatics,Area: Statistics,Area: Mathematics,Domain: Agriculture,Domain: Medical,Project: Analytics for the Australian Grains Industry,Project: Plant Biosecurity Training Centre,Project: Mathematical Analysis of Cellular Systems" data-listing-file-modified-sort="1734142915028" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/eric-stone">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/eric-stone">
@@ -289,7 +291,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="1" data-categories="Area: Computing,Area: Statistics,Area: Bioinformatics,Domain: Agriculture,Affiliation: ANU Statistics,Project: Analytics for the Australian Grains Industry" data-listing-file-modified-sort="1734142985884" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
 <center>
 <a href="https://emitanaka.org/">
@@ -312,7 +314,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="2" data-listing-file-modified-sort="1734138462017" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
 <center>
 <a href="../people/staff/jo-bayley/index.html">
@@ -333,7 +335,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="3" data-categories="Affiliation: CSIRO Ag &amp; Food,Area: Statistics,Domain: Agriculture" data-listing-file-modified-sort="1734142348641" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/jia-liu">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/jia-liu">
@@ -360,7 +362,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="4" data-categories="Area: Statistics,Domain: Medical,Domain: Agriculture,Affiliation: ANU Medical" data-listing-file-modified-sort="1734142381369" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/teresa-neeman">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/teresa-neeman">
@@ -385,7 +387,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="5" data-categories="Area: Mathematics,Affiliation: ANU Mathematics" data-listing-file-modified-sort="1734142326103" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/james-nichols">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/james-nichols">
@@ -412,7 +414,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="6" data-categories="Area: Computing,Area: Bioinformatics,Affiliation: ANU Biology" data-listing-file-modified-sort="1734142355361" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
 
 <center>
 <a href="../people/staff/jiajia-li/index.html">
@@ -435,7 +437,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="7" data-categories="Domain: Medical,Area: Bioinformatics,Affiliation: ANU Medical" data-listing-file-modified-sort="1734142373052" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/jonathan-roco">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/jonathan-roco">
@@ -462,7 +464,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="8" data-categories="Area: Computing,Domain: Agriculture,Affiliation: CSIRO Ag &amp; Food" data-listing-file-modified-sort="1734142388785" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/xuesong-li">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/xuesong-li">
@@ -489,7 +491,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="9" data-categories="Domain: Medical,Area: Statistics,Area: Computing,Area: Bioinformatics,Affiliation: ANU Computing" data-listing-file-modified-sort="1734142307993" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/brian-parker">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/brian-parker">
@@ -514,7 +516,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="10" data-categories="Affiliation: CSIRO Ag &amp; Food,Area: Computing,Domain: Agriculture" data-listing-file-modified-sort="1734142299542" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/ayman-gh">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/ayman-gh">
@@ -541,7 +543,7 @@ window.Quarto = {
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="11" data-categories="Domain: Agriculture,Area: Statistics,Affiliation: ANU Statistics" data-listing-file-modified-sort="1734141783208" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/elle-saber">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/elle-saber">
@@ -583,7 +585,7 @@ No matching items
 <div id="listing-student" class="quarto-listing quarto-listing-container-custom">
 <div class="list grid quarto-listing-cols-4">
 
-<div class="profile-box">
+<div class="profile-box" data-index="0" data-categories="Domain: Agriculture,Area: Statistics,Affiliation: ANU Statistics" data-listing-file-modified-sort="1734141783208" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
 
 <a href="https://researchportalplus.anu.edu.au/en/persons/elle-saber">
 </a><center><a href="https://researchportalplus.anu.edu.au/en/persons/elle-saber">
@@ -614,7 +616,7 @@ No matching items
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="1" data-categories="Area: Statistics,Affiliation: ANU Statistics" data-listing-file-modified-sort="1734142193367" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
 
 <center>
 <a href="../people/students/xueqi-maggie-ma/index.html">
@@ -641,7 +643,7 @@ No matching items
 </div>
 </div>
 
-<div class="profile-box">
+<div class="profile-box" data-index="2" data-categories="Area: Computing,Affiliation: ANU Biology" data-listing-file-modified-sort="1734142210280" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
 
 <center>
 <a href="../people/students/yan-yang/index.html">
@@ -674,46 +676,46 @@ No matching items
 <h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
 <div id="listing-alumni" class="quarto-listing quarto-listing-container-custom">
 <ul>
-<li>
+<li data-index="0" data-listing-date-sort="1730433600000" data-listing-file-modified-sort="1734138462011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
 <b>Ali Zia</b><br>Last seen: Research Fellow at La Trobe University
 </li>
-<li>
+<li data-index="1" data-listing-date-sort="1727755200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Danh-Tai Hoang</b><br>Last seen: Staff Scientist at US National Cancer Institute
 </li>
-<li>
+<li data-index="2" data-listing-date-sort="1704085200000" data-listing-file-modified-sort="1734138462011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Andreas Bachler</b><br>Last seen: Postdoc at CSIRO
 </li>
-<li>
+<li data-index="3" data-listing-date-sort="1698811200000" data-listing-file-modified-sort="1734138462011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Amir Marashi</b><br>Last seen: Research Fellow at the University of Sydney
 </li>
-<li>
+<li data-index="4" data-listing-date-sort="1675227600000" data-listing-file-modified-sort="1734138462013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Timothee Bonnet</b><br>Last seen: Research scientist at French National Centre for Scientific Research
 </li>
-<li>
+<li data-index="5" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Adam Reddiex</b>
 </li>
-<li>
+<li data-index="6" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Saul Newman</b><br>Last seen: Research Fellow at University of Oxford
 </li>
-<li>
+<li data-index="7" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Bruce Shadbolt</b>
 </li>
-<li>
+<li data-index="8" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Liyuan Pan</b>
 </li>
-<li>
+<li data-index="9" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Benjamin Mashford</b><br>Last seen: Research Fellow at the Australian National University
 </li>
-<li>
+<li data-index="10" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Zakir Hossain</b>
 </li>
-<li>
+<li data-index="11" data-listing-date-sort="1672549200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Robert Cope</b><br>Last seen: Lecturer at University of New England
 </li>
-<li>
+<li data-index="12" data-listing-date-sort="1641013200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Nidhi Menon</b>
 </li>
-<li>
+<li data-index="13" data-listing-date-sort="1609477200000" data-listing-file-modified-sort="1734138462012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <b>Jana Sperschneider</b><br>Last seen: Senior Research Scientist at CSIRO
 </li>
 </ul>
@@ -819,7 +821,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/anu-bdsi\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
