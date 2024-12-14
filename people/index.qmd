@@ -1,0 +1,44 @@
+---
+title: "{{< fa solid users >}} Meet the team"
+listing:
+  - id: staff
+    contents:
+      - "staff/eric-stone/"
+      - "staff/emi-tanaka/"
+      - "staff/jo-bayley/"
+      - "staff/"
+      - "students/elle-saber/"
+    template: person.ejs
+    sort: false
+  - id: student
+    contents:
+      - "students/"
+    template: person.ejs
+    sort: name
+  - id: alumni
+    contents:
+      - "alumni/"
+    template: alumni.ejs
+    sort: date desc
+format:
+  html:
+    css: people.css
+page-layout: full
+comments: false
+---
+
+## Staff
+
+
+:::{#staff}
+:::
+
+## Students
+
+:::{#student}
+:::
+
+## Alumni
+
+:::{#alumni}
+:::

@@ -1,0 +1,12 @@
+---
+name: Elle Saber
+email: elle.saber@anu.edu.au
+position: PhD Student / Associate Lecturer
+rpweb: https://researchportalplus.anu.edu.au/en/persons/elle-saber
+supervisor-primary: Eric Stone
+supervisor-associates: Klara Verbyla, Gen Nowak
+image: DSC_0019-Elle2.jpeg
+github: ellesaber
+---
+
+Like many in BDSI, Elle has taken the scenic route to Biological Data Science. Her undergraduate degree was in Economics and Econometrics, her honours research project focussed on predictive models for bushfire ignition using meteorological data. Before beginning her PhD, Elle worked as a research economist for the Australian Productivity Commission, where she contributed to on a wide range of projects including fisheries regulation, efficiency of local governments, health system and the financial system.  Elle’s Phd focuses on statistical methods for estimating heritability and genomic prediction using multi-omic data.

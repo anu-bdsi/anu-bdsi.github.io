@@ -1,0 +1,8 @@
+---
+name: Xuesong (Ben) Li
+email: Xuesong.Li@anu.edu.au
+position: Postdoctoral Fellow
+rpweb: https://researchportalplus.anu.edu.au/en/persons/xuesong-li
+github: Benzlxs
+image: Xuesong.jpg
+---

@@ -1,0 +1,6 @@
+---
+name: Andreas Bachler
+position: Postdoc at CSIRO
+image: Andreas-Bachler.jpeg
+date: 2024-01-01
+---

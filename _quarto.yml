@@ -1,0 +1,22 @@
+project:
+  type: website
+  resources: 
+    - people/placeholder.jpg
+
+website:
+  title: "ANU BDSI"
+  navbar:
+    right:
+      - href: people/index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

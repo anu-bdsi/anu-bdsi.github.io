@@ -1,0 +1,9 @@
+---
+title: Emi Tanaka
+name: Emi Tanaka
+email: emi.tanaka@anu.edu.au
+position: Deputy Director
+web: https://emitanaka.org/
+image: emi-photo.png
+bluesky: emitanaka.org
+---

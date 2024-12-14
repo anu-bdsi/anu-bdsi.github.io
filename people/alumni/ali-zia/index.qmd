@@ -1,0 +1,10 @@
+---
+name: Ali Zia
+email: Ali.Zia@anu.edu.au
+position: Research Fellow at La Trobe University
+rpweb: https://researchportalplus.anu.edu.au/en/persons/ali-zia
+image: alipic.jpeg
+date: 2024-11-01
+---
+
+I received a B.Sc.(Hons.) degree in computer science from the University of Punjab, Lahore, Pakistan, in 2006. I got a Master of Computing degree from Australian National University, Canberra, Australia in 2009, and a PhD degree from Griffith University, Queensland, Australia in 2020.  I am currently working at the Australian National University (ANU) and CSIRO as a postdoctoral research fellow. Before that, I was working as a researcher at ARC Research Hub for Driving Farming Productivity and Disease Prevention, Griffith University, Australia. Prior to that, I worked as a developer/programmer at Griffith University, Australia, and before that, I worked as Assistant Professor at COMSATS University, Lahore, Pakistan. I also worked as a researcher at Neville Roach Laboratory, NICTA, Sydney, Australia. Preceding that, I also worked at various software houses in Lahore, Pakistan. 

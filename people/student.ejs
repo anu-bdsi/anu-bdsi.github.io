@@ -1,0 +1,43 @@
+
+:::{.list .grid .quarto-listing-cols-4}
+
+```{=html}
+
+<% for (const item of items) { %>
+
+<div class="profile-box">
+<% if (item.image) { %>
+<% if (item.rpweb) { %><a href="<%= item.rpweb %>"><% } %>
+<img class="profile-photo" src="<%= item.image %>">
+<% if (item.rpweb) { %></a><% } %>
+<% } else { %>
+<img class="profile-photo" src="/people/placeholder.jpg">
+<% } %>
+<div>
+<center>
+<b><%= item.name %></b>
+<p><%= item.position %></p>
+<p>
+<% if (item.rpweb) { %>
+<a href="<%= item.rpweb %>"><i class="fas fa-paperclip"></i></a>
+<% } %>
+<% if (item.email) { %>
+<a href="mailto:<%= item.email %>"><i class="fas fa-envelope"></i></a>
+<% } %>
+<% if (item.github) { %>
+<a href="https://github.com/<%= item.github %>"><i class="fab fa-github"></i></a>
+<% } %>
+<% if (item.mastodon) { %>
+<a href="<%= item.mastodon %>"><i class="fab fa-mastodon"></i></a>
+<% } %>
+<% if (item.bluesky) { %>
+<a href="https://bsky.app/profile/<%= item.bluesky %>"><i class="fab fa-twitter"></i></a>
+<% } %>
+</p>
+</center>
+</div>
+</div>
+<% } %>
+
+```
+:::

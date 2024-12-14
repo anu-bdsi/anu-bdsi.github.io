@@ -1,0 +1,10 @@
+---
+name: Terry Neeman
+email: Teresa.Neeman@anu.edu.au
+position: Biostatistician
+rpweb: https://researchportalplus.anu.edu.au/en/persons/teresa-neeman
+image: Teresa.jpeg
+---
+
+Terry has more than two decades of experience as a Biostatistician working with Biologists, Biomedical Researchers and Clinicians in both Industry and Academia. Terry enjoys the statistical challenges associated with all aspects of experimental work; from experimental design to data exploration and statistical modelling. Over the last several years, she has worked more closely with Bioinformaticians, and has developed a strong interest in tools for visualisation and inference of highly complex data.
+

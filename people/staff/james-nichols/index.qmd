@@ -1,0 +1,13 @@
+---
+name: James Nichols
+email: James.Nichols@anu.edu.au
+position: Lecturer
+rpweb: https://researchportalplus.anu.edu.au/en/persons/james-nichols
+image: profile_2019.jpeg
+github: james-nichols
+---
+
+Dr James Nichols is a mathematician who is interested in numerical simulation, approximation, and statistical learning techniques. He is particularly interested in developing numerical techniques that are able to tackle high dimensional problems and offer high resolution results with lower computational cost. Such problems are abundant in modern quantative biology.
+
+Before joining the BDSI, Dr. Nichols was a postdoc at Sorbonne Universite, developing methods in calibrating numerical simulations from physical measurements, for example calibrating weather models from satelite observations. Dr. Nichols obtained his PhD in 2014 from UNSW, in which he developed new quasi-Monte Carlo methods to simulate fluid flows in random media, such as water in large aquifer systems like the Great Artesian Basin. Following that he continued on similar themes as a postdoc at UNSW, developing models for simulating sub-diffusive particle movement, typically observed of viruses in epithelial tissues. Before his PhD, James was a quantative analyst at Macquarie bank, assessing portfolio risk and pricing exotic financial instruments, and developing a love for probability and simulation.
+

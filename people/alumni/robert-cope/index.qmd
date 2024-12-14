@@ -1,0 +1,5 @@
+---
+name: Robert Cope
+position: Lecturer at University of New England
+date: 2023-01-01
+---

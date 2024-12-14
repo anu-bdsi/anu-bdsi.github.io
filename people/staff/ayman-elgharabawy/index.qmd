@@ -1,0 +1,8 @@
+---
+name: Ayman Elgharabawy
+email: Ayman.Elgharabawy@anu.edu.au
+position: Postdoctoral Fellow
+rpweb: https://researchportalplus.anu.edu.au/en/persons/ayman-gh
+image: Ayman_ANU_People_200X200.jpeg
+github: ayman-elgharabawy
+---
