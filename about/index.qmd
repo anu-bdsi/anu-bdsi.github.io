@@ -1,0 +1,11 @@
+---
+title: About
+---
+
+From the earliest days of statistics, data science and life science have been deeply intertwined. Biological data science carries this forward to a modern era in which the methods for collecting life science data are increasingly automated digital sensors. This deluge of data is transforming life science research across diverse scales and domains. Data science is key to this transformation, from molecules to ecosystems, and across agriculture, medicine, biodiversity and bioengineering. As such, there is growing demand for expertise at the intersection of the data science and life science. The ANU Biological Data Science Institute (BDSI) is a response to that demand, enabling world-class research and training future leaders in industry, government and academia.
+
+BDSI is an interdisciplinary academic unit in the College of Science that sits at the interface of data science and biological science. It aims to recruit, build and coordinate expertise in the expanding field of biological data science to accelerate the translation of data to domain knowledge. Operating in the space between traditional disciplines, the BDSI is positioned to collaborate across the ANU campus and with partner organisations to solve problems that have impact.
+
+BDSI was established in late 2018 with the goal of building capacity and capability in biological data science, both on ANU campus and at the collaborative interface with partner organisations. BDSI staff and students are by their nature connectors who spend significant time in others' backyards. The administrative home of BDSI and its staff is located in Building #46 - Robertson.
+
+<div style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=r+n+robsertson+canberra&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="googlemaps-made" href="https://kbj9qpmy.com/bp" id="authmaps-data">Internet Provider</a><style>#embed-ded-map-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>

@@ -2,7 +2,7 @@
 title: "Biological Data Science Institute"
 subtitle: "Australian National University"
 listing:
-  contents: blog
+  contents: news
   sort: "date desc"
   type: default
   categories: true
@@ -13,3 +13,4 @@ title-block-banner: true
 ---
 
 
+Testing

@@ -1,0 +1,27 @@
+---
+title: Training 
+listing: 
+  - id: workshop-current
+    contents: workshops/
+    template: workshop-current.ejs
+  - id: workshop-archive
+    contents: workshops/
+    template: workshop-archive.ejs
+format:
+  html:
+    css: workshop.css
+---
+
+## Workshops
+
+### Current
+
+::: {#workshop-current}
+
+:::
+
+### Past
+
+::: {#workshop-archive}
+
+:::

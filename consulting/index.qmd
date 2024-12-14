@@ -1,0 +1,34 @@
+---
+title: Consulting
+---
+
+## BDSI Bioinformatics and Statistics Drop-In Sessions
+
+
+Attended by Bioinformaticians and Statisticians within the Biological Data Science Institute and ANU Bioinformatics Consultancy Unit (JCSMR) - the Bioinformatics and Statistics Drop-in sessions are a free (weekly) resource open to all Life Science Researchers and Students in the Canberra region.
+
+Please join us at the Bioinformatics and Statistics drop-in session, if you require assistance with computational biology or statistical issues, such as:
+
+- planning a new biological experiment
+- assistance with computational or statistical analysis
+- programming advice (such as R or Python)
+- accessing serious computational hardware
+
+
+### Sessions
+
+::: {.callout-warning appearance="minimal"}
+
+<i class="fas fa-exclamation-circle"></i> Currently closed. This service will resume Tuesday, 4 February 2025.
+
+:::
+
+<i class="fas fa-calendar"></i> 10.00am - 11.00am every Tuesday
+
+<i class="fas fa-map-pin"></i> Alternating locations with an option via Zoom
+
+  - DNA Rm S104 (RSB) - Building #46
+  - Rm 2.037 (JCSMR) - Building #131
+  - Zoom link [here](https://anu.zoom.us/j/83692866375?pwd=b3JMZC9BaVBEQUdsSGtKbVQ2TTlvQT09):
+    - Meeting ID: 819 3607 1365
+    - Password: 176933

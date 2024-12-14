@@ -1,0 +1,30 @@
+---
+title: Contact
+listing:
+  - id: staff
+    template: contact.ejs
+    sort-ui: false
+    filter-ui: false
+    contents:
+      - name: Professor Eric Stone
+        contact: Director
+        email: director.bdsi@anu.edu.au
+        phone: +61 2 6125 4033
+        custom-field: A custom value
+      - name: Dr Emi Tanaka
+        contact: Deputy Director
+        email: emi.tanaka@anu.edu.au
+      - name: Ms Jo Fischetti (Bayley)
+        contact: Institute Manager
+        email: manager.bdsi@anu.edu.au
+      - contact: General Enquiries
+        email: admin.bdsi@anu.edu.au
+        phone: +61 2 6125 4033
+        mobile: 0436 863 307
+      - contact: Workshop Enquiries
+        email: workshop.bdsi@anu.edu.au
+      - contact: Consulting Enquiries
+        email: consulting.bdsi@anu.edu.au
+    sort: false
+---
+

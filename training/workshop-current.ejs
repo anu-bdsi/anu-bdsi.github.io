@@ -1,0 +1,31 @@
+
+:::{.list .grid .quarto-listing-cols-2}
+
+```{=html}
+
+<% var today = new Date(); %>
+
+<% for (const item of items) { %>
+<% if(Date.parse(item.date) >= today) { %>
+
+<div class="workshop-box" <%= metadataAttrs(item) %>>
+<center>
+
+<a href="<%= item.path %>">
+<img class="workshop-photo" src=<% if (item.image) { %>"<%= item.image %>"<% } else { %> "/training/placeholder.jpeg" <% } %>>
+</a>
+<div class="workshop-text">
+<p><b><%= item.title %></b></p>
+<% if (item.date) { %>
+<p>Start date: <%= item.date %> <% if (item.presenters) { %>by <%= item.presenters %><% } %></p>
+<% } %>
+</div>
+</center>
+</div>
+
+<% } %>
+
+<% } %>
+
+```
+:::

@@ -1,18 +1,53 @@
 project:
   type: website
-  resources: 
-    - people/placeholder.jpg
 
 website:
   title: "ANU BDSI"
+  announcement: 
+    content: "**Job alert** - 3 postdoctoral or research fellow positions available. Apply by XX January 2025. See more details here." 
+    position: below-navbar 
+    type: primary
+    icon: megaphone-fill
+  favicon: images/favicon.png
+  site-url: https://anu-bdsi.github.io
+  repo-url: https://github.com/anu-bdsi/anu-bdsi.github.io
+  issue-url: https://github.com/anu-bdsi/anu-bdsi.github.io/issues
+  repo-actions: [edit, source, issue]
+  page-footer: |
+   ![](/images/logo-footer.png){height="1em"} Biological Data Science Institute {{< fa solid dna >}}
   navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-fill
+      - href: news/index.qmd
+        text: News & Events
+        icon: newspaper
+      - href: projects/index.qmd
+        text: Projects
+        icon: clipboard2-plus-fill
+      - href: training/index.qmd
+        text: Training & Workshops
+        icon: clipboard2-data-fill
+      - href: consulting/index.qmd
+        text: Consulting
+        icon: clipboard2-pulse-fill
+      - text: Team
+        icon: people-fill
+        menu:
+          - text: People
+            href: people/index.qmd
+          - text: Onboarding
+            href:  onboarding/index.qmd
+      - href: about/index.qmd
+        text: About
+        icon: info-circle-fill
+      - href: contact/index.qmd
+        text: Contact
+        icon: envelope-fill
     right:
-      - href: people/index.qmd
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/anu-bdsi
 format:
   html:
     theme: cosmo

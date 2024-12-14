@@ -1,0 +1,5 @@
+---
+title: Projects
+description: |
+ BDSI aspires to be a clearinghouse for projects in biological data science, irrespective of whether those projects have a link to Institute staff. Project sponsors should feel free to advertise their projects on this site. Potential participants should use this site as a resource and feel free to contact project sponsors with expressions of interest.
+---
