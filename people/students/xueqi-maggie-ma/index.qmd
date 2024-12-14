@@ -6,6 +6,9 @@ supervisor-primary: Emi Tanaka
 supervisor-associates: Xuan Liang, Quan Vu, Francis Hui
 image: p2.jpg
 github: maggiexma
+categories: 
+  - "Area: Statistics"
+  - "Affiliation: ANU Statistics"
 ---
 
 Xueqi Ma is a PhD student exploring the application of visual inference in spatial and spatio-temporal statistics. She holds a Bachelor's degree in International Economics and Trade and later earned a Master's degree in Applied Statistics

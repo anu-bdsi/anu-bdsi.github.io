@@ -4,4 +4,16 @@ email: eric.stone@anu.edu.au
 position: Director
 rpweb: https://researchportalplus.anu.edu.au/en/persons/eric-stone
 image: 138A0234_small.jpeg
+categories: 
+  - "Affiliation: CSIRO Ag & Food"
+  - "Affiliation: ANU Statistics"
+  - "Affiliation: ANU Biology"
+  - "Area: Bioinformatics"
+  - "Area: Statistics"
+  - "Area: Mathematics"
+  - "Domain: Agriculture"
+  - "Domain: Medical"
+  - "Project: Analytics for the Australian Grains Industry"
+  - "Project: Plant Biosecurity Training Centre"
+  - "Project: Mathematical Analysis of Cellular Systems"
 ---

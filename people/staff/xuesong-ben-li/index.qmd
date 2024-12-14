@@ -5,4 +5,8 @@ position: Postdoctoral Fellow
 rpweb: https://researchportalplus.anu.edu.au/en/persons/xuesong-li
 github: Benzlxs
 image: Xuesong.jpg
+categories: 
+  - "Area: Computing"
+  - "Domain: Agriculture"
+  - "Affiliation: CSIRO Ag & Food"
 ---

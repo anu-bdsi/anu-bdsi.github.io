@@ -2,6 +2,7 @@
 title: "{{< fa solid users >}} Meet the team"
 listing:
   - id: staff
+    categories: unnumbered
     contents:
       - "staff/eric-stone/"
       - "staff/emi-tanaka/"
@@ -27,7 +28,7 @@ page-layout: full
 comments: false
 ---
 
-## Staff
+## Staff + Affiliates
 
 
 :::{#staff}

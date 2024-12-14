@@ -6,4 +6,11 @@ position: Deputy Director
 web: https://emitanaka.org/
 image: emi-photo.png
 bluesky: emitanaka.org
+categories: 
+  - "Area: Computing"
+  - "Area: Statistics"
+  - "Area: Bioinformatics"
+  - "Domain: Agriculture"
+  - "Affiliation: ANU Statistics"
+  - "Project: Analytics for the Australian Grains Industry"
 ---

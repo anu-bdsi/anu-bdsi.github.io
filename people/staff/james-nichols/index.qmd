@@ -5,6 +5,9 @@ position: Lecturer
 rpweb: https://researchportalplus.anu.edu.au/en/persons/james-nichols
 image: profile_2019.jpeg
 github: james-nichols
+categories: 
+  - "Area: Mathematics"
+  - "Affiliation: ANU Mathematics"
 ---
 
 Dr James Nichols is a mathematician who is interested in numerical simulation, approximation, and statistical learning techniques. He is particularly interested in developing numerical techniques that are able to tackle high dimensional problems and offer high resolution results with lower computational cost. Such problems are abundant in modern quantative biology.

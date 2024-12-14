@@ -5,6 +5,10 @@ position: Postdoctoral Fellow
 rpweb: https://researchportalplus.anu.edu.au/en/persons/jia-liu
 github: jialiuGit
 image: Liu.jpeg
+categories: 
+  - "Affiliation: CSIRO Ag & Food"
+  - "Area: Statistics"
+  - "Domain: Agriculture"
 ---
 
 Jia is a statistician, her research is focused on the development of statistical and computational methods with applications in different scientific fields. She got a PhD and a Msc degree both in applied statistics from Finland. Her research interests lie primarily in Bayesian statistics, machine learning, spatial&spherical data analysis, optimal design and image analysis.

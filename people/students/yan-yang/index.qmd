@@ -4,6 +4,9 @@ email: Yan.Yang@anu.edu.au
 position: PhD Student
 supervisor-primary: Eric Stone
 image: IMG_0351.JPG
+categories: 
+  - "Area: Computing"
+  - "Affiliation: ANU Biology"
 ---
 
 Yan is a Ph.D. candidate, on his adventure of modeling protein language. Yan received a Bachelor of Advanced Computing with first-class honours from The Australian National University.

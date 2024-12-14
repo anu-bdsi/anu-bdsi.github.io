@@ -4,6 +4,12 @@ email: Brian.Parker@anu.edu.au
 image: brian-parker.png
 position: Jubilee Joint Fellow
 rpweb: https://researchportalplus.anu.edu.au/en/persons/brian-parker
+categories: 
+  - "Domain: Medical"
+  - "Area: Statistics"
+  - "Area: Computing"
+  - "Area: Bioinformatics"
+  - "Affiliation: ANU Computing"
 ---
 
 Brian’s research is in computational biology, applying advanced statistical, mathematical, and algorithmic methods to discover and understand new biology. In particular, post–transcriptional RNA-based gene regulation mechanisms genome-wide. His work has led to the discovery of new regulatory mechanisms in liver metabolism and immunity. His areas of theoretical focus include; comparative genomics, hidden state probabilistic models, machine learning and deep neural networks, functional data analytic models, and algorithmic graph theory.

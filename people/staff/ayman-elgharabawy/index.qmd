@@ -5,4 +5,8 @@ position: Postdoctoral Fellow
 rpweb: https://researchportalplus.anu.edu.au/en/persons/ayman-gh
 image: Ayman_ANU_People_200X200.jpeg
 github: ayman-elgharabawy
+categories: 
+  - "Affiliation: CSIRO Ag & Food"
+  - "Area: Computing"
+  - "Domain: Agriculture"
 ---

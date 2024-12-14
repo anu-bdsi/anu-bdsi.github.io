@@ -1,6 +1,6 @@
 <ul>
 <% for (const item of items) { %>
-  <li>
+  <li <%= metadataAttrs(item) %>>
     <b><%= item.name %></b><% if (item.position) { %><br>Last seen: <%= item.position %><% } %>
   </li>
 <% } %>
