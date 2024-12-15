@@ -1,7 +1,30 @@
 ---
-title: Introduction to R programming
-url: https://anu-bdsi.github.io/workshop-intro-R/
-date: 2024-04-03
-image: intror.jpeg
+title: Reproducible Research with Quarto
+url: https://anu-bdsi.github.io/workshop-intro-quarto/
+date: 2024-04-12
 presenters: Emi Tanaka
 ---
+
+The goal of the workshop is to provide participants with the proficiency to author reproducible research documents using Quarto, an open-source system for scientific and technical publishing. Prior familiarity and usage of at least one of the programming languages such as Python, R, or Julia is assumed to get the most out of the workshop. 
+
+## Learning objectives 
+
+Upon completion of this workshop, participants should be able to: 
+
+- Generate HTML, PDF, or Word documents using Markdown syntax 
+- Develop dynamic documents containing code (in R, Python, or Julia) using Quarto 
+- Understand the anatomy of Quarto documents 
+- Implement various code chunk options to customize chunk behaviour 
+- Establish an organized folder structure for data projects 
+- Recognise the significance of reproducibility and grasp the concept of literate programming 
+- Apply reproducible practices 
+
+Note:
+
+Supervisor approval must be confirmed prior to registration. 
+
+HDR students wishing to track points against this workshop can do so via Career Development Framework. 
+
+The workshop has a cap. It will be filled on first-come, first-served basis. Please enrol in this workshop only if you can attend the full 3 hours. The workshop will be exclusively in-person on ANU campus and attendance is recorded. 
+
+ Workshop registration closes 22nd March 2024. Please note that it may close earlier than this if we reach the maximum capacity.

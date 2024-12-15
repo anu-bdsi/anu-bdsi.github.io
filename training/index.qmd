@@ -4,9 +4,11 @@ listing:
   - id: workshop-current
     contents: workshops/
     template: workshop-current.ejs
+    sort: date desc
   - id: workshop-archive
     contents: workshops/
     template: workshop-archive.ejs
+    sort: date desc
 format:
   html:
     css: workshop.css

@@ -1,16 +1,50 @@
 ---
 title: "Biological Data Science Institute"
-subtitle: "Australian National University"
-listing:
-  contents: news
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+subtitle: "College of Science and Medicine<br>Australian National University"
+format: 
+  html:
+    css: styles.css
 ---
 
 
-Testing
+
+
+:::{.list .grid .quarto-listing-cols-3 .hover-gold-tint}
+
+
+[News & Events](/news/)
+
+
+[Projects](/projects/)
+
+
+[Training](/training/)
+
+[Consulting](/consulting/)
+
+[People](/people/)
+
+[About](/about/)
+
+[Contact](/contact/)
+
+:::
+
+<br>
+
+
+:::{.list .grid .quarto-listing-cols-3 .hover-gold-tint}
+
+[Subscriribe](/subscribe/)
+
+:::
+
+
+::: subscribe-btn
+
+[Subscribe](/subscribe/)
+
+:::
+
+
+

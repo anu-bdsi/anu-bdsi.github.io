@@ -1,3 +1,47 @@
 ---
 title: Onboarding
+toc: true
 ---
+
+## Welcome to the Team!
+
+The team uses the following shared resources:
+
+- **GitHub organisation** for public team resources (team only)
+- **Sharepoint site** for private team resources (staff only)
+- **Microsoft teams** for casual chats (any ANU staff)
+- **Microsoft group** for group emails  (staff only)
+
+We advocate for **_open science_**, i.e. share your code and data where it is reasonable to do so. Of course, some data may have sensitive information then you should not share this publicly and certainly should not be done without the permission of the data collector. In this instance, we encourage you to generate synthetic data so your code can be run on the synthetic data. Where the reason for not sharing data is due to having a competitive advantage, then we suggest to have an embargo period. You are unlikely to make use of old data. 
+
+Complete analysis code by default should be open (not "available by request" bullcrap) unless there is a good reason not to.
+
+## How to get added
+
+- **Send your GitHub username** to _Emi Tanaka_ for GitHub organisation.
+- **Send your ANU email address** to _Jo Bayley_ or _Emi Tanaka_ to be added for Sharepoint, Microsoft teams, and Microsoft group.
+
+## Early careers 
+
+- Join [**NECTAR**](https://nectar.anu.edu.au/), the network for early-career university workers at ANU.
+
+## Students
+
+
+## Meetings
+
+
+
+| Meeting | When |  Description | 
+| -----------| -------- | ---------------|
+| BDSI External Forum* | Once a month | 1-1.5 hour meeting open externally  |
+| BDSI Internal Forum* | Three times a month | 1.5 hour internal meeting   |
+| RSFAS Statistics Seminar | Usually on Thu 11am | 1 hour
+| ACT Branch of the Statistical Society of Australia | Last Tuesday of the month | |
+
+
+
+## Professional Societies
+
+- Statistical Society of Australia (ACT Branch)
+- International Biometrics Society (Australasian Region)

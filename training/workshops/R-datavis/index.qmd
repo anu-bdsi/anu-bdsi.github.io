@@ -1,7 +1,27 @@
 ---
-title: Introduction to R programming
-url: https://anu-bdsi.github.io/workshop-intro-R/
-date: 2024-04-03
-image: intror.jpeg
+title: Data Visualisation with R (Part 1) 
+url: https://anu-bdsi.github.io/workshop-data-vis-R1/
+date: 2024-04-10
 presenters: Emi Tanaka
 ---
+
+The aim of the workshop is to equip participants with the skills to plot using ggplot2, which implements the concept of the "grammar of graphics". This workshop is designed for those already familiar with R, particularly in data wrangling, but with limited to no experience using ggplot2 for plotting. An understanding of data wrangling in R is expected. Participants without prior experience in data wrangling with R are encouraged to attend the Data Wrangling with R (Part 1) workshop before joining this session. This workshop is not recommended for individuals without any knowledge of data wrangling in R to enrol in this workshop. 
+
+## Learning objectives 
+
+Upon completion of this workshop, participants should be able to: 
+
+- Understand the concept of the grammar of graphics 
+- Create basic plots using ggplot2 
+- Construct plots with multiple layers in ggplot2 
+- Adjust scales and guides within ggplot2 
+
+Note:
+
+Supervisor approval must be confirmed prior to registration. 
+
+HDR students wishing to track points against this workshop can do so via Career Development Framework 
+
+The workshop has a cap. It will be filled on first-come, first-served basis. Please enrol in this workshop only if you can attend the full 3 hours. The workshop will be exclusively in-person on ANU campus and attendance is recorded. 
+
+ Workshop registration closes 22nd March 2024. Please note that it may close earlier than this if we reach the maximum capacity.

@@ -8,6 +8,8 @@ website:
     position: below-navbar 
     type: primary
     icon: megaphone-fill
+  cookie-consent: true
+  open-graph: true
   favicon: images/favicon.png
   site-url: https://anu-bdsi.github.io
   repo-url: https://github.com/anu-bdsi/anu-bdsi.github.io
@@ -52,6 +54,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    title-block-banner: true
 
 
 

@@ -1,7 +1,29 @@
 ---
-title: Introduction to R programming
-url: https://anu-bdsi.github.io/workshop-intro-R/
-date: 2024-04-03
-image: intror.jpeg
-presenters: Emi Tanaka
+title: Introduction to Machine Learning in Python
+github: https://github.com/anu-bdsi/workshop-machine-learning-python
+date: 2024-07-24
+presenters: Jiajia Li
 ---
+
+This professional training course will introduce some of the common methods and terminologies used in machine learning research. It will cover areas such as data preparation and resampling, model building, and model evaluation. You don’t need any prior knowledge to attend this course.
+
+## Date & Time
+
+- 24 Jul 2024 | 2 - 4pm
+- 31 Jul 2024 | 2 - 4pm
+- 7 Aug 2024 | 2 - 4pm
+- 14 Aug 2024 | 2 - 4pm
+- 21 Aug 2024 | 2 - 4pm
+
+## Materials & Recordings:
+
+All materials used in this course is on [this GitHub page](https://github.com/anu-bdsi/workshop-machine-learning-python).
+
+- Workshop 1 recording - [20240724_ML_Recording1.mp4](https://anu365.sharepoint.com/:v:/s/BDSI/EcLkb4NnR6BErXvXe_yU7NwBJ6u9nPoDVStUq4xzlmtsKQ?e=AFK5FE)
+- Workshop 2 recording - [20240731_ML_Recording2.mp4](https://anu365.sharepoint.com/:v:/s/BDSI/ESvKwC-2wO5OjA9sHSve_DEBUxYDCAiaXoCdoO1SFnvcPA?e=VzF9TM)
+- Workshop 3 recording - [20240807_ML_Recording3.mp4](https://anu365.sharepoint.com/:v:/s/BDSI/EdsJ4s1zNYVNnvD18czh_ioBy2akaeMRt8v1ryEk6pUrfw?e=a0OZEj)
+- Workshop 4 recording - [20240814_ML_Recording4.mp4](https://anu365.sharepoint.com/:v:/s/BDSI/ETbttKVc-69Cg-2izt3SMV4BEJ-tLWZuT0XaPtdA9kgEOQ?e=daQAVq)
+- Workshop 5 recording - [20240822_ML_Recording5.mp4](https://anu365.sharepoint.com/:v:/s/BDSI/EWZtPjB2W0VMtv9qGueTTioBh_-WBv8i5Ta174fn1Tq1Ng?e=jK9QP0)
+
+If you have trouble accessing the recording, please email [Jiajia Liu](/team/jiajia-liu/).
+

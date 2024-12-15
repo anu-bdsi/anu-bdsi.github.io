@@ -1,7 +1,20 @@
 ---
-title: Introduction to R programming
-url: https://anu-bdsi.github.io/workshop-intro-R/
-date: 2024-04-03
-image: intror.jpeg
-presenters: Emi Tanaka
+title: Data Visualisation with Python
+github: https://github.com/anu-bdsi/workshop-data-visualisation-python/tree/main
+date: 2024-05-09
+presenters: Jiajia Li
 ---
+
+This series of workshops will introduce data visualisation fundamentals, the Python packages Pandas, Matplotlib, and Seaborn. Participants will use several datasets from published papers to reconstruct the plots and customise them to different styles and themes.
+
+Location: Slatyer Seminar Room, RN Robertson Building (also online via Zoom)
+
+## Materials
+
+- Course material [here](https://github.com/anu-bdsi/workshop-data-visualisation-python/tree/main)
+- Recording 1 [here](https://bdsi.anu.edu.au/training-courses/20240509_python_data_visualisation1.mp4)
+- Recording 2 [here](https://bdsi.anu.edu.au/training-courses/20240510_python_data_visualisation2.mp4) 
+- Recording 3 – Not available (didn’t start recording on that day)
+- Recording 4 [here](https://bdsi.anu.edu.au/training-courses/20240517_python_data_visualisation4.mp4)
+- Recording 5 [here](https://bdsi.anu.edu.au/training-courses/20240523_python_data_visualisation5.mp4)
+
