@@ -1,24 +1,80 @@
 [
   {
-    "objectID": "people/staff/jiajia-li/index.html",
-    "href": "people/staff/jiajia-li/index.html",
-    "title": "ANU BDSI",
+    "objectID": "onboarding/index.html",
+    "href": "onboarding/index.html",
+    "title": "Onboarding",
     "section": "",
-    "text": "Jiajia is a bioinformatician at BDSI and RSB, providing technical support for HDR students and researchers across the school. She received a Master of Data Science from the University of Canberra in 2021, and a Bachelor of Engineering from the Henan University in 2019. Jiajia has experience in single cell RNA-seq and image denoising. Her current goal is to help lift up the overall programming skills for RSB students and researchers."
+    "text": "The team uses the following shared resources:\n\nGitHub organisation for public team resources (team only)\nSharepoint site for private team resources (staff only)\nMicrosoft teams for casual chats (any ANU staff)\nMicrosoft group for group emails (staff only)\n\nWe advocate for open science, i.e. share your code and data where it is reasonable to do so. Of course, some data may have sensitive information then you should not share this publicly and certainly should not be done without the permission of the data collector. In this instance, we encourage you to generate synthetic data so your code can be run on the synthetic data. Where the reason for not sharing data is due to having a competitive advantage, then we suggest to have an embargo period. You are unlikely to make use of old data.\nComplete analysis code by default should be open (not “available by request” bullcrap) unless there is a good reason not to."
   },
   {
-    "objectID": "people/staff/terry-neeman/index.html",
-    "href": "people/staff/terry-neeman/index.html",
-    "title": "ANU BDSI",
+    "objectID": "onboarding/index.html#welcome-to-the-team",
+    "href": "onboarding/index.html#welcome-to-the-team",
+    "title": "Onboarding",
     "section": "",
-    "text": "Terry has more than two decades of experience as a Biostatistician working with Biologists, Biomedical Researchers and Clinicians in both Industry and Academia. Terry enjoys the statistical challenges associated with all aspects of experimental work; from experimental design to data exploration and statistical modelling. Over the last several years, she has worked more closely with Bioinformaticians, and has developed a strong interest in tools for visualisation and inference of highly complex data."
+    "text": "The team uses the following shared resources:\n\nGitHub organisation for public team resources (team only)\nSharepoint site for private team resources (staff only)\nMicrosoft teams for casual chats (any ANU staff)\nMicrosoft group for group emails (staff only)\n\nWe advocate for open science, i.e. share your code and data where it is reasonable to do so. Of course, some data may have sensitive information then you should not share this publicly and certainly should not be done without the permission of the data collector. In this instance, we encourage you to generate synthetic data so your code can be run on the synthetic data. Where the reason for not sharing data is due to having a competitive advantage, then we suggest to have an embargo period. You are unlikely to make use of old data.\nComplete analysis code by default should be open (not “available by request” bullcrap) unless there is a good reason not to."
   },
   {
-    "objectID": "people/staff/jia-liu/index.html",
-    "href": "people/staff/jia-liu/index.html",
+    "objectID": "onboarding/index.html#how-to-get-added",
+    "href": "onboarding/index.html#how-to-get-added",
+    "title": "Onboarding",
+    "section": "How to get added",
+    "text": "How to get added\n\nSend your GitHub username to Emi Tanaka for GitHub organisation.\nSend your ANU email address to Jo Bayley or Emi Tanaka to be added for Sharepoint, Microsoft teams, and Microsoft group."
+  },
+  {
+    "objectID": "onboarding/index.html#early-careers",
+    "href": "onboarding/index.html#early-careers",
+    "title": "Onboarding",
+    "section": "Early careers",
+    "text": "Early careers\n\nJoin NECTAR, the network for early-career university workers at ANU."
+  },
+  {
+    "objectID": "onboarding/index.html#students",
+    "href": "onboarding/index.html#students",
+    "title": "Onboarding",
+    "section": "Students",
+    "text": "Students"
+  },
+  {
+    "objectID": "onboarding/index.html#meetings",
+    "href": "onboarding/index.html#meetings",
+    "title": "Onboarding",
+    "section": "Meetings",
+    "text": "Meetings\n\n\n\n\n\n\n\n\nMeeting\nWhen\nDescription\n\n\n\n\nBDSI External Forum*\nOnce a month\n1-1.5 hour meeting open externally\n\n\nBDSI Internal Forum*\nThree times a month\n1.5 hour internal meeting\n\n\nRSFAS Statistics Seminar\nUsually on Thu 11am\n1 hour\n\n\nACT Branch of the Statistical Society of Australia\nLast Tuesday of the month"
+  },
+  {
+    "objectID": "onboarding/index.html#professional-societies",
+    "href": "onboarding/index.html#professional-societies",
+    "title": "Onboarding",
+    "section": "Professional Societies",
+    "text": "Professional Societies\n\nStatistical Society of Australia (ACT Branch)\nInternational Biometrics Society (Australasian Region)"
+  },
+  {
+    "objectID": "people/staff/brian-parker/index.html",
+    "href": "people/staff/brian-parker/index.html",
     "title": "ANU BDSI",
     "section": "",
-    "text": "Jia is a statistician, her research is focused on the development of statistical and computational methods with applications in different scientific fields. She got a PhD and a Msc degree both in applied statistics from Finland. Her research interests lie primarily in Bayesian statistics, machine learning, spatial&spherical data analysis, optimal design and image analysis."
+    "text": "Brian’s research is in computational biology, applying advanced statistical, mathematical, and algorithmic methods to discover and understand new biology. In particular, post–transcriptional RNA-based gene regulation mechanisms genome-wide. His work has led to the discovery of new regulatory mechanisms in liver metabolism and immunity. His areas of theoretical focus include; comparative genomics, hidden state probabilistic models, machine learning and deep neural networks, functional data analytic models, and algorithmic graph theory."
+  },
+  {
+    "objectID": "people/staff/jonathan-roco/index.html",
+    "href": "people/staff/jonathan-roco/index.html",
+    "title": "ANU BDSI",
+    "section": "",
+    "text": "Dr Jon Roco is a biomedical research scientist with a diverse academic background that includes experimental immunology, bioinformatics, and statistics. He holds a PhD in Medical Sciences from The Australian National University, where his research focused on B cell biology and antibody responses. As a Postdoctoral Research Fellow, Dr. Roco expanded his research interests to precision medicine and how bioinformatics and single-cell technologies can be applied to analyse and understand the molecular basis of autoimmunity and immune deficiencies in humans.\nNow, as a clinical trial biostatistician, his primary focus lies on the application of statistical methods to generate reliable evidence from clinical trials, ensuring these are conducted rigorously, ethically, and with statistical and experimental validity."
+  },
+  {
+    "objectID": "people/staff/james-nichols/index.html",
+    "href": "people/staff/james-nichols/index.html",
+    "title": "ANU BDSI",
+    "section": "",
+    "text": "Dr James Nichols is a mathematician who is interested in numerical simulation, approximation, and statistical learning techniques. He is particularly interested in developing numerical techniques that are able to tackle high dimensional problems and offer high resolution results with lower computational cost. Such problems are abundant in modern quantative biology.\nBefore joining the BDSI, Dr. Nichols was a postdoc at Sorbonne Universite, developing methods in calibrating numerical simulations from physical measurements, for example calibrating weather models from satelite observations. Dr. Nichols obtained his PhD in 2014 from UNSW, in which he developed new quasi-Monte Carlo methods to simulate fluid flows in random media, such as water in large aquifer systems like the Great Artesian Basin. Following that he continued on similar themes as a postdoc at UNSW, developing models for simulating sub-diffusive particle movement, typically observed of viruses in epithelial tissues. Before his PhD, James was a quantative analyst at Macquarie bank, assessing portfolio risk and pricing exotic financial instruments, and developing a love for probability and simulation."
+  },
+  {
+    "objectID": "people/alumni/ali-zia/index.html",
+    "href": "people/alumni/ali-zia/index.html",
+    "title": "ANU BDSI",
+    "section": "",
+    "text": "I received a B.Sc.(Hons.) degree in computer science from the University of Punjab, Lahore, Pakistan, in 2006. I got a Master of Computing degree from Australian National University, Canberra, Australia in 2009, and a PhD degree from Griffith University, Queensland, Australia in 2020. I am currently working at the Australian National University (ANU) and CSIRO as a postdoctoral research fellow. Before that, I was working as a researcher at ARC Research Hub for Driving Farming Productivity and Disease Prevention, Griffith University, Australia. Prior to that, I worked as a developer/programmer at Griffith University, Australia, and before that, I worked as Assistant Professor at COMSATS University, Lahore, Pakistan. I also worked as a researcher at Neville Roach Laboratory, NICTA, Sydney, Australia. Preceding that, I also worked at various software houses in Lahore, Pakistan."
   },
   {
     "objectID": "people/students/xueqi-maggie-ma/index.html",
@@ -46,7 +102,7 @@
     "href": "people/index.html#students",
     "title": " Meet the team",
     "section": "Students",
-    "text": "Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElle Saber\nPhD Student / Associate Lecturer\n\nPrimary supervisor: Eric Stone\n\nAssociate supervisors: Klara Verbyla, Gen Nowak\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXueqi (Maggie) Ma\nPhD Student\n\nPrimary supervisor: Emi Tanaka\n\nAssociate supervisors: Xuan Liang, Quan Vu, Francis Hui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYan Yang\nPhD Student\n\nPrimary supervisor: Eric Stone\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElle Saber\nPhD Student / Associate Lecturer\n\nPrimary supervisor: Eric Stone\n\nAssociate supervisors: Klara Verbyla, Gen Nowak\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEva Henningsen\nPhD Student\n\nPrimary supervisor: Eric Stone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXueqi (Maggie) Ma\nPhD Student\n\nPrimary supervisor: Emi Tanaka\n\nAssociate supervisors: Xuan Liang, Quan Vu, Francis Hui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYan Yang\nPhD Student\n\nPrimary supervisor: Eric Stone\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/index.html#alumni",
@@ -56,6 +112,13 @@
     "text": "Alumni\n\n\n\nAli ZiaLast seen: Research Fellow at La Trobe University\n\n\nDanh-Tai HoangLast seen: Staff Scientist at US National Cancer Institute\n\n\nAndreas BachlerLast seen: Postdoc at CSIRO\n\n\nAmir MarashiLast seen: Research Fellow at the University of Sydney\n\n\nTimothee BonnetLast seen: Research scientist at French National Centre for Scientific Research\n\n\nAdam Reddiex\n\n\nSaul NewmanLast seen: Research Fellow at University of Oxford\n\n\nBruce Shadbolt\n\n\nLiyuan Pan\n\n\nBenjamin MashfordLast seen: Research Fellow at the Australian National University\n\n\nZakir Hossain\n\n\nRobert CopeLast seen: Lecturer at University of New England\n\n\nNidhi Menon\n\n\nJana SperschneiderLast seen: Senior Research Scientist at CSIRO\n\n\n\nNo matching items"
   },
   {
+    "objectID": "news/items/2024-12-20/index.html",
+    "href": "news/items/2024-12-20/index.html",
+    "title": "Job Alert",
+    "section": "",
+    "text": "3 postdocs"
+  },
+  {
     "objectID": "blog/welcome/index.html",
     "href": "blog/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -63,18 +126,123 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "From the earliest days of statistics, data science and life science have been deeply intertwined. Biological data science carries this forward to a modern era in which the methods for collecting life science data are increasingly automated digital sensors. This deluge of data is transforming life science research across diverse scales and domains. Data science is key to this transformation, from molecules to ecosystems, and across agriculture, medicine, biodiversity and bioengineering. As such, there is growing demand for expertise at the intersection of the data science and life science. The ANU Biological Data Science Institute (BDSI) is a response to that demand, enabling world-class research and training future leaders in industry, government and academia.\nBDSI is an interdisciplinary academic unit in the College of Science that sits at the interface of data science and biological science. It aims to recruit, build and coordinate expertise in the expanding field of biological data science to accelerate the translation of data to domain knowledge. Operating in the space between traditional disciplines, the BDSI is positioned to collaborate across the ANU campus and with partner organisations to solve problems that have impact.\nBDSI was established in late 2018 with the goal of building capacity and capability in biological data science, both on ANU campus and at the collaborative interface with partner organisations. BDSI staff and students are by their nature connectors who spend significant time in others’ backyards. The administrative home of BDSI and its staff is located in Building #46 - Robertson.\n\n\n\n\n\nInternet Provider"
+  },
+  {
+    "objectID": "training/index.html",
+    "href": "training/index.html",
+    "title": "Training",
+    "section": "",
+    "text": "Introduction to R programming\n\nStart date: Apr 3, 2025 by Emi Tanaka\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning in Python\n\nLast taught: Jul 24, 2024 by Jiajia Li\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualisation with Python\n\nLast taught: May 9, 2024 by Jiajia Li\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Research with Quarto\n\nLast taught: Apr 12, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualisation with R (Part 1)\n\nLast taught: Apr 10, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesign and Analysis of Experiments\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R programming\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling with R (Part 1)\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneralised Linear Models\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R programming\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "training/index.html#workshops",
+    "href": "training/index.html#workshops",
+    "title": "Training",
+    "section": "",
+    "text": "Introduction to R programming\n\nStart date: Apr 3, 2025 by Emi Tanaka\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning in Python\n\nLast taught: Jul 24, 2024 by Jiajia Li\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualisation with Python\n\nLast taught: May 9, 2024 by Jiajia Li\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Research with Quarto\n\nLast taught: Apr 12, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualisation with R (Part 1)\n\nLast taught: Apr 10, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesign and Analysis of Experiments\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R programming\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling with R (Part 1)\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneralised Linear Models\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R programming\n\nLast taught: Apr 3, 2024 by Emi Tanaka\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "training/workshops/quarto-reproducible-workflow/index.html",
+    "href": "training/workshops/quarto-reproducible-workflow/index.html",
+    "title": "Reproducible Research with Quarto",
+    "section": "",
+    "text": "The goal of the workshop is to provide participants with the proficiency to author reproducible research documents using Quarto, an open-source system for scientific and technical publishing. Prior familiarity and usage of at least one of the programming languages such as Python, R, or Julia is assumed to get the most out of the workshop."
+  },
+  {
+    "objectID": "training/workshops/quarto-reproducible-workflow/index.html#learning-objectives",
+    "href": "training/workshops/quarto-reproducible-workflow/index.html#learning-objectives",
+    "title": "Reproducible Research with Quarto",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nUpon completion of this workshop, participants should be able to:\n\nGenerate HTML, PDF, or Word documents using Markdown syntax\nDevelop dynamic documents containing code (in R, Python, or Julia) using Quarto\nUnderstand the anatomy of Quarto documents\nImplement various code chunk options to customize chunk behaviour\nEstablish an organized folder structure for data projects\nRecognise the significance of reproducibility and grasp the concept of literate programming\nApply reproducible practices\n\nNote:\nSupervisor approval must be confirmed prior to registration.\nHDR students wishing to track points against this workshop can do so via Career Development Framework.\nThe workshop has a cap. It will be filled on first-come, first-served basis. Please enrol in this workshop only if you can attend the full 3 hours. The workshop will be exclusively in-person on ANU campus and attendance is recorded.\nWorkshop registration closes 22nd March 2024. Please note that it may close earlier than this if we reach the maximum capacity."
+  },
+  {
+    "objectID": "training/workshops/python-machine-learning/index.html",
+    "href": "training/workshops/python-machine-learning/index.html",
+    "title": "Introduction to Machine Learning in Python",
+    "section": "",
+    "text": "This professional training course will introduce some of the common methods and terminologies used in machine learning research. It will cover areas such as data preparation and resampling, model building, and model evaluation. You don’t need any prior knowledge to attend this course."
+  },
+  {
+    "objectID": "training/workshops/python-machine-learning/index.html#date-time",
+    "href": "training/workshops/python-machine-learning/index.html#date-time",
+    "title": "Introduction to Machine Learning in Python",
+    "section": "Date & Time",
+    "text": "Date & Time\n\n24 Jul 2024 | 2 - 4pm\n31 Jul 2024 | 2 - 4pm\n7 Aug 2024 | 2 - 4pm\n14 Aug 2024 | 2 - 4pm\n21 Aug 2024 | 2 - 4pm"
+  },
+  {
+    "objectID": "training/workshops/python-machine-learning/index.html#materials-recordings",
+    "href": "training/workshops/python-machine-learning/index.html#materials-recordings",
+    "title": "Introduction to Machine Learning in Python",
+    "section": "Materials & Recordings:",
+    "text": "Materials & Recordings:\nAll materials used in this course is on this GitHub page.\n\nWorkshop 1 recording - 20240724_ML_Recording1.mp4\nWorkshop 2 recording - 20240731_ML_Recording2.mp4\nWorkshop 3 recording - 20240807_ML_Recording3.mp4\nWorkshop 4 recording - 20240814_ML_Recording4.mp4\nWorkshop 5 recording - 20240822_ML_Recording5.mp4\n\nIf you have trouble accessing the recording, please email Jiajia Liu."
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Director\n\nProfessor Eric Stone\n director.bdsi@anu.edu.au\n\n\n\nDeputy Director\n\nDr Emi Tanaka\n emi.tanaka@anu.edu.au\n\n\n\nInstitute Manager\n\nMs Jo Fischetti (Bayley)\n manager.bdsi@anu.edu.au\n\n\n\nGeneral Enquiries\n\n admin.bdsi@anu.edu.au\n\n\n\nWorkshop Enquiries\n\n workshop.bdsi@anu.edu.au\n\n\n\nConsulting Enquiries\n\n consulting.bdsi@anu.edu.au\n\n\nNo matching items"
+  },
+  {
+    "objectID": "training/workshops/python-datavis/index.html",
+    "href": "training/workshops/python-datavis/index.html",
+    "title": "Data Visualisation with Python",
+    "section": "",
+    "text": "This series of workshops will introduce data visualisation fundamentals, the Python packages Pandas, Matplotlib, and Seaborn. Participants will use several datasets from published papers to reconstruct the plots and customise them to different styles and themes.\nLocation: Slatyer Seminar Room, RN Robertson Building (also online via Zoom)"
+  },
+  {
+    "objectID": "training/workshops/python-datavis/index.html#materials",
+    "href": "training/workshops/python-datavis/index.html#materials",
+    "title": "Data Visualisation with Python",
+    "section": "Materials",
+    "text": "Materials\n\nCourse material here\nRecording 1 here\nRecording 2 here\nRecording 3 – Not available (didn’t start recording on that day)\nRecording 4 here\nRecording 5 here"
+  },
+  {
+    "objectID": "training/workshops/R-datavis/index.html",
+    "href": "training/workshops/R-datavis/index.html",
+    "title": "Data Visualisation with R (Part 1)",
+    "section": "",
+    "text": "The aim of the workshop is to equip participants with the skills to plot using ggplot2, which implements the concept of the “grammar of graphics”. This workshop is designed for those already familiar with R, particularly in data wrangling, but with limited to no experience using ggplot2 for plotting. An understanding of data wrangling in R is expected. Participants without prior experience in data wrangling with R are encouraged to attend the Data Wrangling with R (Part 1) workshop before joining this session. This workshop is not recommended for individuals without any knowledge of data wrangling in R to enrol in this workshop."
+  },
+  {
+    "objectID": "training/workshops/R-datavis/index.html#learning-objectives",
+    "href": "training/workshops/R-datavis/index.html#learning-objectives",
+    "title": "Data Visualisation with R (Part 1)",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nUpon completion of this workshop, participants should be able to:\n\nUnderstand the concept of the grammar of graphics\nCreate basic plots using ggplot2\nConstruct plots with multiple layers in ggplot2\nAdjust scales and guides within ggplot2\n\nNote:\nSupervisor approval must be confirmed prior to registration.\nHDR students wishing to track points against this workshop can do so via Career Development Framework\nThe workshop has a cap. It will be filled on first-come, first-served basis. Please enrol in this workshop only if you can attend the full 3 hours. The workshop will be exclusively in-person on ANU campus and attendance is recorded.\nWorkshop registration closes 22nd March 2024. Please note that it may close earlier than this if we reach the maximum capacity."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Biological Data Science Institute",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "News & Events\nProjects\nTraining\nConsulting\nPeople\nAbout\nContact\n\n\n\nSubscriribe\n\n\nSubscribe"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News & Events",
     "section": "",
-    "text": "About this blog"
+    "text": "Job Alert\n\n\n\n\n\n3 postdocs \n\n\n\n\n\nDec 20, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "consulting/index.html",
+    "href": "consulting/index.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "Attended by Bioinformaticians and Statisticians within the Biological Data Science Institute and ANU Bioinformatics Consultancy Unit (JCSMR) - the Bioinformatics and Statistics Drop-in sessions are a free (weekly) resource open to all Life Science Researchers and Students in the Canberra region.\nPlease join us at the Bioinformatics and Statistics drop-in session, if you require assistance with computational biology or statistical issues, such as:\n\nplanning a new biological experiment\nassistance with computational or statistical analysis\nprogramming advice (such as R or Python)\naccessing serious computational hardware\n\n\n\n\n\n\n\n\n\n Currently closed. This service will resume Tuesday, 4 February 2025.\n\n\n\n 10.00am - 11.00am every Tuesday\n Alternating locations with an option via Zoom\n\nDNA Rm S104 (RSB) - Building #46\nRm 2.037 (JCSMR) - Building #131\nZoom link here:\n\nMeeting ID: 819 3607 1365\nPassword: 176933"
+  },
+  {
+    "objectID": "consulting/index.html#bdsi-bioinformatics-and-statistics-drop-in-sessions",
+    "href": "consulting/index.html#bdsi-bioinformatics-and-statistics-drop-in-sessions",
+    "title": "Consulting",
+    "section": "",
+    "text": "Attended by Bioinformaticians and Statisticians within the Biological Data Science Institute and ANU Bioinformatics Consultancy Unit (JCSMR) - the Bioinformatics and Statistics Drop-in sessions are a free (weekly) resource open to all Life Science Researchers and Students in the Canberra region.\nPlease join us at the Bioinformatics and Statistics drop-in session, if you require assistance with computational biology or statistical issues, such as:\n\nplanning a new biological experiment\nassistance with computational or statistical analysis\nprogramming advice (such as R or Python)\naccessing serious computational hardware\n\n\n\n\n\n\n\n\n\n Currently closed. This service will resume Tuesday, 4 February 2025.\n\n\n\n 10.00am - 11.00am every Tuesday\n Alternating locations with an option via Zoom\n\nDNA Rm S104 (RSB) - Building #46\nRm 2.037 (JCSMR) - Building #131\nZoom link here:\n\nMeeting ID: 819 3607 1365\nPassword: 176933"
   },
   {
     "objectID": "people/students/yan-yang/index.html",
@@ -91,31 +259,24 @@
     "text": "Like many in BDSI, Elle has taken the scenic route to Biological Data Science. Her undergraduate degree was in Economics and Econometrics, her honours research project focussed on predictive models for bushfire ignition using meteorological data. Before beginning her PhD, Elle worked as a research economist for the Australian Productivity Commission, where she contributed to on a wide range of projects including fisheries regulation, efficiency of local governments, health system and the financial system. Elle’s Phd focuses on statistical methods for estimating heritability and genomic prediction using multi-omic data."
   },
   {
-    "objectID": "people/alumni/ali-zia/index.html",
-    "href": "people/alumni/ali-zia/index.html",
+    "objectID": "people/staff/jia-liu/index.html",
+    "href": "people/staff/jia-liu/index.html",
     "title": "ANU BDSI",
     "section": "",
-    "text": "I received a B.Sc.(Hons.) degree in computer science from the University of Punjab, Lahore, Pakistan, in 2006. I got a Master of Computing degree from Australian National University, Canberra, Australia in 2009, and a PhD degree from Griffith University, Queensland, Australia in 2020. I am currently working at the Australian National University (ANU) and CSIRO as a postdoctoral research fellow. Before that, I was working as a researcher at ARC Research Hub for Driving Farming Productivity and Disease Prevention, Griffith University, Australia. Prior to that, I worked as a developer/programmer at Griffith University, Australia, and before that, I worked as Assistant Professor at COMSATS University, Lahore, Pakistan. I also worked as a researcher at Neville Roach Laboratory, NICTA, Sydney, Australia. Preceding that, I also worked at various software houses in Lahore, Pakistan."
+    "text": "Jia is a statistician, her research is focused on the development of statistical and computational methods with applications in different scientific fields. She got a PhD and a Msc degree both in applied statistics from Finland. Her research interests lie primarily in Bayesian statistics, machine learning, spatial&spherical data analysis, optimal design and image analysis."
   },
   {
-    "objectID": "people/staff/james-nichols/index.html",
-    "href": "people/staff/james-nichols/index.html",
+    "objectID": "people/staff/terry-neeman/index.html",
+    "href": "people/staff/terry-neeman/index.html",
     "title": "ANU BDSI",
     "section": "",
-    "text": "Dr James Nichols is a mathematician who is interested in numerical simulation, approximation, and statistical learning techniques. He is particularly interested in developing numerical techniques that are able to tackle high dimensional problems and offer high resolution results with lower computational cost. Such problems are abundant in modern quantative biology.\nBefore joining the BDSI, Dr. Nichols was a postdoc at Sorbonne Universite, developing methods in calibrating numerical simulations from physical measurements, for example calibrating weather models from satelite observations. Dr. Nichols obtained his PhD in 2014 from UNSW, in which he developed new quasi-Monte Carlo methods to simulate fluid flows in random media, such as water in large aquifer systems like the Great Artesian Basin. Following that he continued on similar themes as a postdoc at UNSW, developing models for simulating sub-diffusive particle movement, typically observed of viruses in epithelial tissues. Before his PhD, James was a quantative analyst at Macquarie bank, assessing portfolio risk and pricing exotic financial instruments, and developing a love for probability and simulation."
+    "text": "Terry has more than two decades of experience as a Biostatistician working with Biologists, Biomedical Researchers and Clinicians in both Industry and Academia. Terry enjoys the statistical challenges associated with all aspects of experimental work; from experimental design to data exploration and statistical modelling. Over the last several years, she has worked more closely with Bioinformaticians, and has developed a strong interest in tools for visualisation and inference of highly complex data."
   },
   {
-    "objectID": "people/staff/jonathan-roco/index.html",
-    "href": "people/staff/jonathan-roco/index.html",
+    "objectID": "people/staff/jiajia-li/index.html",
+    "href": "people/staff/jiajia-li/index.html",
     "title": "ANU BDSI",
     "section": "",
-    "text": "Dr Jon Roco is a biomedical research scientist with a diverse academic background that includes experimental immunology, bioinformatics, and statistics. He holds a PhD in Medical Sciences from The Australian National University, where his research focused on B cell biology and antibody responses. As a Postdoctoral Research Fellow, Dr. Roco expanded his research interests to precision medicine and how bioinformatics and single-cell technologies can be applied to analyse and understand the molecular basis of autoimmunity and immune deficiencies in humans.\nNow, as a clinical trial biostatistician, his primary focus lies on the application of statistical methods to generate reliable evidence from clinical trials, ensuring these are conducted rigorously, ethically, and with statistical and experimental validity."
-  },
-  {
-    "objectID": "people/staff/brian-parker/index.html",
-    "href": "people/staff/brian-parker/index.html",
-    "title": "ANU BDSI",
-    "section": "",
-    "text": "Brian’s research is in computational biology, applying advanced statistical, mathematical, and algorithmic methods to discover and understand new biology. In particular, post–transcriptional RNA-based gene regulation mechanisms genome-wide. His work has led to the discovery of new regulatory mechanisms in liver metabolism and immunity. His areas of theoretical focus include; comparative genomics, hidden state probabilistic models, machine learning and deep neural networks, functional data analytic models, and algorithmic graph theory."
+    "text": "Jiajia is a bioinformatician at BDSI and RSB, providing technical support for HDR students and researchers across the school. She received a Master of Data Science from the University of Canberra in 2021, and a Bachelor of Engineering from the Henan University in 2019. Jiajia has experience in single cell RNA-seq and image denoising. Her current goal is to help lift up the overall programming skills for RSB students and researchers."
   }
 ]

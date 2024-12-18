@@ -14,6 +14,7 @@
       "/people/staff/brian-parker/index.html",
       "/people/staff/ayman-elgharabawy/index.html",
       "/people/students/elle-saber/index.html",
+      "/people/students/eva-henningsen/index.html",
       "/people/students/xueqi-maggie-ma/index.html",
       "/people/students/yan-yang/index.html",
       "/people/alumni/ali-zia/index.html",
@@ -33,9 +34,28 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/training/index.html",
     "items": [
-      "/blog/welcome/index.html"
+      "/training/workshops/git-reproducible-workflow/index.html",
+      "/training/workshops/python-machine-learning/index.html",
+      "/training/workshops/python-datavis/index.html",
+      "/training/workshops/quarto-reproducible-workflow/index.html",
+      "/training/workshops/R-datavis/index.html",
+      "/training/workshops/R-expdesign/index.html",
+      "/training/workshops/R-intro/index.html",
+      "/training/workshops/R-datawrangle/index.html",
+      "/training/workshops/R-glm/index.html",
+      "/training/workshops/R-bootcamp/index.html"
+    ]
+  },
+  {
+    "listing": "/contact/index.html",
+    "items": []
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/items/2024-12-20/index.html"
     ]
   }
 ]
