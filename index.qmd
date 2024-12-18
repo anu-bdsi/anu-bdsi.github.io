@@ -3,7 +3,7 @@ title: "Biological Data Science Institute"
 subtitle: "College of Science and Medicine<br>Australian National University"
 format: 
   html:
-    css: styles.css
+    css: /assets/styles.css
 ---
 
 

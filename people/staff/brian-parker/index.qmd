@@ -1,7 +1,7 @@
 ---
 name: Brian Parker
 email: Brian.Parker@anu.edu.au
-image: brian-parker.png
+image: brian-parker.jpeg
 position: Jubilee Joint Fellow
 rpweb: https://researchportalplus.anu.edu.au/en/persons/brian-parker
 categories: 

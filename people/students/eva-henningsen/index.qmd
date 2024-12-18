@@ -1,0 +1,12 @@
+---
+name: Eva Henningsen
+email: Eva.Henningsen@anu.edu.au
+position: PhD Student 
+supervisor-primary: Eric Stone
+image: eva.jpg
+categories: 
+  - "Domain: Agriculture"
+  - "Area: Biology"
+  - "Affiliation: ANU Biology"
+---
+

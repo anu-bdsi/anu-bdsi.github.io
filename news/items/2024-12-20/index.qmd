@@ -1,8 +1,0 @@
----
-title: Job Alert
-description: | 
-  3 postdocs
-date: 2024-12-20
----
-
-3 postdocs
